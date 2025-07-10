@@ -1,1 +1,5 @@
-# .github
+# About
+
+The [Smart Water Group](https://www.ntnu.edu/ihb/water-and-environmental-engineering-lab) is a water and environmental engineering laboratory within the [Department of Ocean Operations and Civil Engineering (IHB)](https://www.ntnu.edu/ihb) at [NTNU Ålesund](https://www.ntnu.no/alesund). The focus of this laboratory is the development of smart water systems for the effective operation, maintenance and overall management of drinking water and wastewater systems.
+
+Research topics include Water Quality Assessment, Water and Wastewater Treatment, Pipe Hydraulics and Stormwater Management, and Digitalization and Simulation of Water Systems.
